@@ -1,0 +1,15 @@
+==================================== Desenhar e documentar o diagrama de Sequencia =============================================
+
+	Utilizados para representar e modelar o fluxo de mensagens, eventos e ações entre objetos
+e componentes de um sistema.
+
+	Entregáveis: Diagrama UML - Diagrama de Sequencia.
+
+
+	Competência:
+
+	Apresentar e documentar a dinamicidade do sistema. Deduzir  e explicar a mudança constante do sistema.
+
+Aula Expositiva e Dialogada e Prática em Laboratório.
+
+================================================================================================================================

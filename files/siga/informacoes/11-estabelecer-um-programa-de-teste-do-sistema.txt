@@ -1,0 +1,16 @@
+=========================================== Estabelecer um programa de teste do sistema. =======================================
+
+	ELABORAÇÃO PROJETO FÍSICO
+
+	Criar o código em linguagem de preferência do grupo de discentes.
+
+
+	Entregáveis: Codificação em Linguagem de Programação.
+
+	Competência: contribuir para a gestão colaborativa e a inovação e geração de propostas objetivando a vantagem 
+competitiva para as empresas.
+
+
+	Aula Expositiva e Dialogada e Prática em Laboratório.
+
+================================================================================================================================

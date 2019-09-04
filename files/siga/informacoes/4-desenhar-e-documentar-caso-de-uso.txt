@@ -1,0 +1,24 @@
+=========================================== Desenhar e Documentar Caso de Uso ==================================================
+
+	Desenhar e documentar os casos de USO
+
+	Elaborar os casos de uso (use cases) que permitem definir as funções de aplicação que o sistema deverá oferecer para 
+o usuário.
+
+	Um caso de uso representa o que o sistema faz e não como o sistema faz, proporcionando uma visão externa e não interna do 
+sistema. Um caso de uso especifica o comportamento do sistema a ser desenvolvido sem, no entanto, especificar com este 
+comportamento será implementado.
+
+	Entregáveis: Diagrama UML - Caso de Uso e Descrição Cenários Ótimo/Alternativo.
+
+	Competência:
+
+	Aplicar e Identificar o caso de uso define o comportamento, as respostas esperadas e os casos de testes que devem 
+validar a implementação do sistema.
+
+	Aula Expositiva e Dialogada e Prática em Laboratório.
+
+
+	Data da Aula	28/08/2019
+
+================================================================================================================================

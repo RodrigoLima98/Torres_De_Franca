@@ -1,0 +1,27 @@
+=============================================== Declaração do Sistema ==========================================================
+
+	Declaração do Sistema e Concepção do Sistema
+
+	Processos de desenvolvimento de software.
+
+	Entendimento e definição das necessidades do cliente, utilização de técnicas para capturar informações e entender
+com mais precisão os desafios e objetivos do projeto.
+
+	Elaboração de requisitos dos principais produtos e entregas do projeto, incluindo declaração do escopo e a explicitação 
+dos objetivos do projeto, onde tem-se claramente uma nova estratégia de solução para o cliente.
+
+
+	Entregáveis: Cronogramas de Custo, Prazo e Acompanhamento do Projeto.
+
+
+	Competências:
+
+	Aplicar técnicas de levantamento de requisitos avaliando a capacidade de comunicação do discente e 
+demonstrando a capacidade de elaborar um relatório descrevendo os requisitos analisados.
+
+	Aula Expositiva e Dialogada e Prática em Laboratório.
+
+
+	Data da Aula	14/08/2019
+
+================================================================================================================================

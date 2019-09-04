@@ -1,0 +1,15 @@
+===================================== Desenhar e documentar o diagrama de Atividades. ==========================================
+
+	Utilizados para representar os fluxos de negócios e operacionais do sistema.
+
+	Entregáveis: Diagrama UML - Diagrama de Atividades.
+
+
+Competência:
+
+	Utilizar  o raciocínio lógico para estimar o fluxo do código da Lógica de negócio e eventos que geram decisões e ações 
+no código.
+
+	Aula Expositiva e Dialogada e Prática em Laboratório.
+
+================================================================================================================================

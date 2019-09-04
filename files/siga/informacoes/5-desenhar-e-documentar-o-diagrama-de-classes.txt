@@ -1,0 +1,20 @@
+=============================================== Desenhar e Documentar o Diagrama de Classes ====================================
+
+	Desenhar e documentar o diagrama de Classes.
+
+	Mostrar os tipos que estão sendo modelados no sistema. Na maioria dos modelos UML, esses tipos incluem: uma classe,
+ uma interface, um tipo de dado, um componente.
+
+
+	Entregáveis: Diagrama UML - Diagrama de Classe.
+
+
+	Competência:
+
+	Organizar os relacionamentos entre as diversas entidades participantes do sistema e agrupar características 
+semelhantes e especializar comportamentos das entidades.
+
+	
+	Aula Expositiva.
+
+================================================================================================================================

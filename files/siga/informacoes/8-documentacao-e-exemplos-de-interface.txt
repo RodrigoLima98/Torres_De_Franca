@@ -1,0 +1,18 @@
+============================================ Documentação e Exemplos de Interface. =============================================
+
+	Documentação da interface (diagrama de estados).
+	
+	Exemplos de interface (telas).
+
+	
+	Entregáveis: DER, Protótipos de Tela.
+
+	Competência:
+
+	Elaborar e orientar propostas de material visual (telas).
+	Modelar um comportamento discreto em sistemas de transição entre estados finitos (diagram de estados).
+
+
+	Aula Expositiva e Dialogada e Prática em Laboratório.
+
+================================================================================================================================

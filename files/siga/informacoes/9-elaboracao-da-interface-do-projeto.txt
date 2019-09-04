@@ -1,0 +1,19 @@
+================================================= Elaboração da Interface do Projeto ===========================================
+
+	Abordar o design de interfaces com a perspectiva que o designer deve comunicar qual foi a solução que ele projetou 
+para o usuário para que ele possa atingir as suas metas.
+
+
+	Entregáveis: Tela, Testes e Validação.
+
+
+	Competência:
+
+	Projetar os comandos de função para cada uma das funções.
+	Comunicar para o usuário quais as ações ele deve fazer em cada comando.
+	Comunicar para o usuário quais as funções o sistema oferece e como acessar cada comando.
+
+
+Aula Expositiva e Dialogada e Prática em Laboratório.
+
+================================================================================================================================

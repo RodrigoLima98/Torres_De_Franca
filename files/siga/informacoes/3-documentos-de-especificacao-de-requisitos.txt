@@ -1,0 +1,24 @@
+========================================= Documento de Específicação de Requisito ==============================================
+
+	Documentos de especificação de requisitos
+
+	Apresentação do documento de especificação de requisitos que oferece a concordância entre clientes, analistas 
+e desenvolvedores sobre o que deve ser desenvolvido.
+
+	Elaboração do escopo do projeto (assunto e principais características/funcionalidades da aplicação).
+
+
+	Entregáveis: Especificação de Requisitos.
+
+
+	Competências:
+
+	Utilizar o pensamento crítico, operacional e lógico para elaborar e apresentar o documento de requisitos.
+
+
+	Aula Expositiva e Dialogada e Prática em Laboratório.
+
+
+	Data da Aula	21/08/2019
+
+================================================================================================================================
